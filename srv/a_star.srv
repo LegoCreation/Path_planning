@@ -1,0 +1,4 @@
+int32[] src
+int32[] dest
+---
+int32[] directions
